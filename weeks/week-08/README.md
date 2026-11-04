@@ -1,4 +1,4 @@
-# Week 8: Backend Frameworks, REST APIs, Authentication
+# Week 8: SQL Joins, Aggregation & Data Manipulation
 
 ## What I built
 -

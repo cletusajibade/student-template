@@ -1,4 +1,4 @@
-# Week 3: Classes, OOP, Encapsulation, Polymorphism, Inheritance
+# Week 3: Classes, Objects, Constructors & Encapsulation
 
 ## What I built
 -

@@ -1,4 +1,4 @@
-# Week 13: Advanced Programming + Capstone Build Sprint 1
+# Week 13: Spring Boot & REST API Design
 
 ## What I built
 -

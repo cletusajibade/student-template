@@ -1,4 +1,4 @@
-# Week 10: Claude API, Advanced GitHub Copilot, Building AI-Powered Features
+# Week 10: CRUD in Code, Migrations, Secrets & NoSQL Intro
 
 ## What I built
 -

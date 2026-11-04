@@ -1,28 +1,40 @@
 # claim-academy-[name]-cohort
 
-My work for the Claim Academy Software Development + AI program (Java track).
+My work for the Claim Academy Software Development + AI program (Java track), a 6-month (26-week) part-time program.
 
 **Name:**
-**Portfolio:** _(GitHub Pages link, Week 7)_
-**Capstone live demo:** _(Week 12)_
+**Portfolio:** _(GitHub Pages link, Week 11)_
+**Capstone live demo:** _(Demo Day, Week 26)_
 
 ## Progress
 | Week | Topic | Project | Status |
 |---|---|---|---|
-| 01 | IDE Setup, Git, Variables, Scope, Naming | Personal Introduction Program | ⬜ |
-| 02 | Data Types, Statements, Expressions, Flow Control | Temperature Converter | ⬜ |
-| 03 | Classes, OOP, Encapsulation, Polymorphism, Inheritance | Library System (OOP) | ⬜ |
-| 04 | Collections, Exception Handling, Debugging | Contact Book Application | ⬜ |
-| 05 | Relational Concepts, SQL, Entity Relationship Diagrams | Inventory Database | ⬜ |
-| 06 | ORM, Database Frameworks, CRUD Operations in Code | Full CRUD Application | ⬜ |
-| 07 | HTML, CSS, Frontend Basics, React Introduction | Portfolio Website V1 | ⬜ |
-| 08 | Backend Frameworks, REST APIs, Authentication | Full-Stack Application V1 | ⬜ |
-| 09 | React Deep Dive, State Management, Full-Stack Integration | Full-Stack Application V2: Authentication | ⬜ |
-| 10 | Claude API, Advanced GitHub Copilot, Building AI-Powered Features | AI-Enhanced Full-Stack Application | ⬜ |
-| 11 | Unit Testing, Integration Testing, Test-Driven Development | Tested Full-Stack Application | ⬜ |
-| 12 | GitHub Actions, Docker, AWS Deployment | Live Deployed Application | ⬜ |
-| 13 | Advanced Programming + Capstone Build Sprint 1 | Capstone Milestone 1 | ⬜ |
-| 14 | Capstone Finalization, Demo Day Preparation & Career Launch | Capstone Final Deliverable | ⬜ |
+| 01 | IDE Setup, Git, Variables, Data Types & Expressions | Personal Introduction Program | ⬜ |
+| 02 | Flow Control: Conditionals & Loops | Temperature Converter | ⬜ |
+| 03 | Classes, Objects, Constructors & Encapsulation | Bank Account Class | ⬜ |
+| 04 | Inheritance, Polymorphism, Abstract Classes & Interfaces | Library System (OOP) | ⬜ |
+| 05 | Collections: Arrays, Lists & Maps | Shopping Cart | ⬜ |
+| 06 | Exception Handling & Debugging | Contact Book Application | ⬜ |
+| 07 | Relational Concepts, Entity Relationship Diagrams & SQL Basics | School Database | ⬜ |
+| 08 | SQL Joins, Aggregation & Data Manipulation | Inventory Database | ⬜ |
+| 09 | ORM, Spring Data JPA & the Repository Pattern | Contact Book: Database Version | ⬜ |
+| 10 | CRUD in Code, Migrations, Secrets & NoSQL Intro | Full CRUD Application | ⬜ |
+| 11 | HTML, CSS, Flexbox & Responsive Design | Portfolio Website V1 (GitHub Pages) | ⬜ |
+| 12 | React Introduction: Components, JSX, Props & State | Portfolio Website V1: React Version | ⬜ |
+| 13 | Spring Boot & REST API Design | REST API Backend | ⬜ |
+| 14 | Authentication, JWT & Connecting the Frontend | Full-Stack Application V1 | ⬜ |
+| 15 | React Deep Dive: Hooks, Router & State Management | Multi-Page React Frontend | ⬜ |
+| 16 | Calling APIs from React, Forms & Full-Stack Integration | Full-Stack Application V2: Authentication | ⬜ |
+| 17 | LLM Fundamentals, Claude API & Prompt Engineering | Claude API Feature Prototype | ⬜ |
+| 18 | Building AI-Powered Features, Advanced GitHub Copilot & AI Costs | AI-Enhanced Full-Stack Application | ⬜ |
+| 19 | Unit Testing, JUnit & Mocking | Unit Test Suite | ⬜ |
+| 20 | Test-Driven Development, Integration Testing, Coverage & Secure Coding | Tested Full-Stack Application | ⬜ |
+| 21 | Docker, docker-compose & GitHub Actions CI/CD | Containerized App with CI Pipeline | ⬜ |
+| 22 | AWS Deployment, Server Basics & HTTPS | Live Deployed Application | ⬜ |
+| 23 | SOLID, Design Patterns, Domain-Driven Design & Refactoring | Capstone Proposal & Architecture | ⬜ |
+| 24 | Software Estimation, Code Review + Capstone Build Sprint 1 | Capstone Milestone 1 | ⬜ |
+| 25 | Capstone Build Sprint 2 & Portfolio Finalization | Capstone Milestone 2 | ⬜ |
+| 26 | Capstone Finalization, Demo Day Preparation & Career Launch | Capstone Final Deliverable | ⬜ |
 
 ## Setup
 Rename this repo `claim-academy-[yourname]-cohort`. Copy `.env.example` to `.env` for secrets, which are never committed.

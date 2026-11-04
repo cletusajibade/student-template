@@ -1,4 +1,4 @@
-# Week 2: Data Types, Statements, Expressions, Flow Control
+# Week 2: Flow Control: Conditionals & Loops
 
 ## What I built
 -

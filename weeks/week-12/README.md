@@ -1,4 +1,4 @@
-# Week 12: GitHub Actions, Docker, AWS Deployment
+# Week 12: React Introduction: Components, JSX, Props & State
 
 ## What I built
 -

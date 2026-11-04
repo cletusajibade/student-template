@@ -1,4 +1,4 @@
-# Week 7: HTML, CSS, Frontend Basics, React Introduction
+# Week 7: Relational Concepts, Entity Relationship Diagrams & SQL Basics
 
 ## What I built
 -

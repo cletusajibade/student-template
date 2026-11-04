@@ -1,4 +1,4 @@
-# Week 14: Capstone Finalization, Demo Day Preparation & Career Launch
+# Week 14: Authentication, JWT & Connecting the Frontend
 
 ## What I built
 -

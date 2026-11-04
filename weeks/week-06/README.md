@@ -1,4 +1,4 @@
-# Week 6: ORM, Database Frameworks, CRUD Operations in Code
+# Week 6: Exception Handling & Debugging
 
 ## What I built
 -

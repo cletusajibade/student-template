@@ -1,4 +1,4 @@
-# Week 5: Relational Concepts, SQL, Entity Relationship Diagrams
+# Week 5: Collections: Arrays, Lists & Maps
 
 ## What I built
 -

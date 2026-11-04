@@ -1,4 +1,4 @@
-# Week 9: React Deep Dive, State Management, Full-Stack Integration
+# Week 9: ORM, Spring Data JPA & the Repository Pattern
 
 ## What I built
 -
